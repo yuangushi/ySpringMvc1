@@ -11,4 +11,8 @@ public class HelloWordController {
         return "success";
 
     }
+
+    public void test(){
+
+    }
 }
